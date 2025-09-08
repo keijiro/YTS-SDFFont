@@ -1,0 +1,3 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:Label text="あのイーハトーヴォの&#10;すきとおった風、&#10;夏でも底に&#10;冷たさをもつ青いそら、&#10;うつくしい森で&#10;飾られたモリーオ市、&#10;郊外のぎらぎらひかる&#10;草の波。" style="position: absolute; top: 30px; left: 30px; right: 30px; bottom: 30px; color: rgb(255, 255, 255); -unity-font-definition: url(&quot;project://database/Assets/Fonts/NotoSerifJP-Regular%20SDF.asset?fileID=11400000&amp;guid=5db362b4e118748178a39ab56a2d68d9&amp;type=2#NotoSerifJP-Regular SDF&quot;); font-size: 58px; white-space: nowrap;" />
+</ui:UXML>
