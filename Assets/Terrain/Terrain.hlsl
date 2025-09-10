@@ -36,7 +36,7 @@ void GetContour_float
 )
 {
     float y = position.y;
-    float fw = fwidth(y) * 3;
+    float fw = fwidth(y);
 
     float h1 = height - width1 / 2 - width2;
     float h2 = height - width1 / 2;
