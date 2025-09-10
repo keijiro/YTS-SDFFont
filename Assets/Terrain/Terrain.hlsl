@@ -28,11 +28,23 @@ void GetContour_float
 (
     float3 position,
     float height,
-    float boldness,
-    out float output
+    float width1,
+    float width2,
+    float3 color1,
+    float3 color2,
+    out float3 output
 )
 {
-    float fw = fwidth(position.y) * boldness;
-    output = smoothstep(height - fw, height, position.y) -
-             smoothstep(height, height + fw, position.y);
+    float y = position.y;
+    float fw = fwidth(y) * 3;
+
+    float h1 = height - width1 / 2 - width2;
+    float h2 = height - width1 / 2;
+    float h3 = height + width1 / 2;
+
+    float p1 = smoothstep(h1 - fw, h1, y);
+    float p2 = smoothstep(h2 - fw, h2, y);
+    float p3 = smoothstep(h3 - fw, h3, y);
+
+    output = lerp(color2 * p1, color1, p2) * (1 - p3);
 }
