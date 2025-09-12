@@ -1,0 +1,14 @@
+Label {
+    -unity-font-definition: url("project://database/Assets/Fonts/MPLUS1-Black.ttf?fileID=12800000&guid=130c1111fb5f64320846ef6f560cb42f&type=3#MPLUS1-Black");
+    -unity-font-style: italic;
+    font-size: 160px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    color: rgb(255, 255, 255);
+    -unity-text-align: middle-center;
+}
+
+

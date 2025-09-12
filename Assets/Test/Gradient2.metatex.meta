@@ -1,0 +1,54 @@
+fileFormatVersion: 2
+guid: 991e76953b1c948b991a06b490a67f86
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 1431cff934e074ba08d350fd0fc5be0d, type: 3}
+  _dimensions: {x: 512, y: 4}
+  _generator: 3
+  _colormap: 0
+  _color: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  _color2: {r: 1, g: 1, b: 1, a: 1}
+  _gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 0.9560039, b: 0.514151, a: 1}
+    key2: {r: 0.9150943, g: 0.5655613, b: 0.2460395, a: 0}
+    key3: {r: 0.3962264, g: 0.09727583, b: 0, a: 0}
+    key4: {r: 0.14150941, g: 0.03552936, b: 0.00066749885, a: 0}
+    key5: {r: 0.5471698, g: 0.2767202, b: 0.13679245, a: 0}
+    key6: {r: 0.8018868, g: 0.48280433, b: 0.12482201, a: 0}
+    key7: {r: 1, g: 0.8737395, b: 0.3160377, a: 0}
+    ctime0: 0
+    ctime1: 16962
+    ctime2: 32382
+    ctime3: 35659
+    ctime4: 41056
+    ctime5: 43562
+    ctime6: 47224
+    ctime7: 65535
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    mode: 0
+    colorSpace: 0
+    numColorKeys: 8
+    numAlphaKeys: 2
+  _scale: {x: 1, y: 1}
+  _codepoint: 1f600
+  _shader: {instanceID: 0}
+  _material: {instanceID: 0}
+  _wrapMode: 1
+  _filterMode: 1
+  _anisoLevel: 0
+  _compression: 1
+  _linear: 0
