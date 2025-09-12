@@ -1,5 +1,5 @@
 Label {
-    -unity-font-definition: url("project://database/Assets/Fonts/MPLUS1-Black.ttf?fileID=12800000&guid=130c1111fb5f64320846ef6f560cb42f&type=3#MPLUS1-Black");
+    -unity-font-definition: url("project://database/Assets/Fonts/MPLUS1-Black%20SDF.asset?fileID=11400000&guid=b7f38ac8bcfe642f1a91c50a34111596&type=2#MPLUS1-Black SDF");
     -unity-font-style: italic;
     font-size: 160px;
     position: absolute;
@@ -10,5 +10,3 @@ Label {
     color: rgb(255, 255, 255);
     -unity-text-align: middle-center;
 }
-
-

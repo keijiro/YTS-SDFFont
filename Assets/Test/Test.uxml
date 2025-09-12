@@ -1,9 +1,11 @@
 <ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
-    <Style src="project://database/Assets/Test/Test.uss?fileID=7433441132597879392&amp;guid=29f6585481086430fb771af7440a3435&amp;type=3#Test"/>
+    <Style src="project://database/Assets/Test/Test.uss?fileID=7433441132597879392&amp;guid=29f6585481086430fb771af7440a3435&amp;type=3"/>
+    <ui:VisualElement name="spacer" style="flex-grow: 1;"/>
     <ui:VisualElement name="container">
-        <ui:Label text="5000&#20806;&#20870;" style="-unity-material: url(&quot;project://database/Assets/Test/GradientText3.mat?fileID=2100000&amp;guid=ceb6726faf87943aa81065c071d1555d&amp;type=2#GradientText3&quot;); text-shadow: 10px 10px 8px rgb(0, 0, 0); translate: 6px 10px; -unity-text-outline-width: 25px; -unity-text-outline-color: rgb(255, 255, 255);"/>
-        <ui:Label text="5000&#20806;&#20870;" style="-unity-text-outline-color: rgb(255, 255, 255); -unity-text-outline-width: 28px; -unity-material: url(&quot;project://database/Assets/Test/GradientText2.mat?fileID=2100000&amp;guid=2dda3cdc6846a4fa093445254f378c78&amp;type=2#GradientText2&quot;); text-shadow: 12px 6px 9px rgb(0, 0, 0); translate: 2px 0;"/>
-        <ui:Label text="5000&#20806;&#20870;" style="-unity-text-outline-color: rgb(255, 255, 255); -unity-text-outline-width: 8px; text-shadow: 4px 4px 10px rgb(0, 0, 0); translate: 1px 0;"/>
-        <ui:Label text="5000&#20806;&#20870;" style="-unity-material: url(&quot;project://database/Assets/Test/GradientText1.mat?fileID=2100000&amp;guid=a3523aa5716814b96b2013232efd450d&amp;type=2#GradientText1&quot;); text-shadow: 3px 3px 4px rgb(0, 0, 0); position: relative;"/>
+        <ui:Label text="5000&#20806;&#20870;" style="-unity-material: url(&quot;project://database/Assets/Test/GradientText3.mat?fileID=2100000&amp;guid=ceb6726faf87943aa81065c071d1555d&amp;type=2#GradientText3&quot;); text-shadow: 6px 12px 8px rgb(0, 0, 0); translate: 6px 7px; -unity-text-outline-width: 25px; -unity-text-outline-color: rgb(255, 255, 255);"/>
+        <ui:Label text="5000&#20806;&#20870;" style="-unity-text-outline-color: rgb(255, 255, 255); -unity-text-outline-width: 16px; -unity-material: url(&quot;project://database/Assets/Test/GradientText2.mat?fileID=2100000&amp;guid=2dda3cdc6846a4fa093445254f378c78&amp;type=2#GradientText2&quot;); text-shadow: 8px 16px 12px rgb(0, 0, 0); translate: 2px 2px;"/>
+        <ui:Label text="5000&#20806;&#20870;" style="-unity-text-outline-color: rgb(255, 255, 255); -unity-text-outline-width: 6px; text-shadow: 4px 4px 10px rgb(0, 0, 0); translate: 1px 1px;"/>
+        <ui:Label text="5000&#20806;&#20870;" style="-unity-material: url(&quot;project://database/Assets/Test/GradientText1.mat?fileID=2100000&amp;guid=a3523aa5716814b96b2013232efd450d&amp;type=2#GradientText1&quot;); text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.69); position: relative;"/>
     </ui:VisualElement>
+    <ui:VisualElement name="spacer" style="flex-grow: 1;"/>
 </ui:UXML>
